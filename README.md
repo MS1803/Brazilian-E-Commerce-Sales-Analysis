@@ -100,7 +100,7 @@ Support top-performing sellers with better logistics & visibility
 
 Clone the repository:
 
-git clone https://github.com/your-username/brazilian-ecommerce-analysis.git
+git clone https://github.com/ms1803/brazilian-ecommerce-analysis.git
 
 
 Explore SQL queries (/SQL_Scripts folder)
